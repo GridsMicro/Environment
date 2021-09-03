@@ -15,6 +15,18 @@ Program Editor
 
 - [Google Colab](https://colab.research.google.com/) on Web Browser
 
-สำหรับนักพัฒนาเว็บไซต์
+ฐานข้อมูล (Brige & Database)
 
-WebServer Simulate : [XAMPP](https://www.apachefriends.org/download.html) 8.0.9 (PHP 8.0.9)
+- [XAMPP](https://www.apachefriends.org/download.html) 8.0.9 (PHP 8.0.9)
+
+- [Firebase]() on Web Browser
+
+Firmware Environment
+
+- npm
+
+โปรแกรมเฉพาะทางอื่นๆ
+
+- [EasyEDA Designer]() ใช้ในการออกแบบวงจร Electronic
+
+- [SketchUp](https://www.sketchup.com/) ใช้ในการออกแบบทางวิศวกรรมโครงสร้าง
